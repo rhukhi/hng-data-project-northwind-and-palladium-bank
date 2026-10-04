@@ -1,0 +1,8 @@
+Customer_ID,Customer_Name,Tier,Customer_SK,Start_Date,End_Date,Is_Current
+C0001,Emeka Yakubu,Platinum,1,2023-01-01,,True
+C0003,Funke Nwosu,Silver,2,2023-01-01,,True
+C0004,Fatima Ibrahim,Standard,3,2023-01-01,,True
+C0005,Gbenga Ibrahim,Platinum,4,2023-01-01,,True
+C0002,Amina Okonkwo,Platinum,5,2023-01-01,,True
+C0006,Halima Danladi,Standard,6,2023-01-01,,True
+C0007,Rotimi Adeleke,Gold,7,2023-01-01,,True

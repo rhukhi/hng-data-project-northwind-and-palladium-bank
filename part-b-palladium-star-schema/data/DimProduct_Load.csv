@@ -1,0 +1,9 @@
+Product_ID,Product_Name,Product_Type,Product_SK
+P007,Debit Card,Card,1
+P002,Savings Account,Account,2
+P009,Mobile Banking,Digital,3
+P001,Current Account,Account,4
+P004,Personal Loan,Loan,5
+P008,Credit Card,Card,6
+P003,Fixed Deposit,Savings,7
+P010,Internet Banking,Digital,8
